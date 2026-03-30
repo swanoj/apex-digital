@@ -1,0 +1,28 @@
+{
+  "rates": [
+    {
+      "service": "Web Design & Dev",
+      "from": "$2,500",
+      "description": "Custom-built sites. No templates, no page builders. Coded from scratch to look like nothing else.",
+      "code": "WEB DESIGN & DEV"
+    },
+    {
+      "service": "eCommerce / Shopify",
+      "from": "$2,000",
+      "description": "Full Shopify store builds, CRO, product pages, conversion flows and everything that makes people buy.",
+      "code": "ECOMMERCE / SHOPIFY"
+    },
+    {
+      "service": "Social Content & Video",
+      "from": "$800",
+      "description": "Reels, TikToks, brand content and social strategy. Platform-native creative that actually performs.",
+      "code": "SOCIAL CONTENT & VIDEO"
+    },
+    {
+      "service": "Branding & Identity",
+      "from": "$1,500",
+      "description": "Logo, visual identity, brand guidelines and the full toolkit. Built around who you actually are.",
+      "code": "BRANDING & IDENTITY"
+    }
+  ]
+}
